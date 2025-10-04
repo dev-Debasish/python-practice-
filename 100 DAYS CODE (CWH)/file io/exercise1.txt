@@ -1,0 +1,11 @@
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+Return-Path: <postmaster@collab.sakaiproject.org>
+Received: from murder (mail.umich.edu [141.211.14.90])
+From louis@media.berkeley.edu Fri Jan  4 18:10:48 2008
+From zqian@umich.edu Fri Jan  4 16:10:39 2008
+From: rjlowe@iupui.edu Fri Jan  4 15:46:24 2008
+From zqian@umich.edu Fri Jan  4 15:03:18 2008
+From rzemp@iupui.edu Thu Jan  3 14:50:18 2008
+From gsilver@umich.edu Thu Jan  3 11:12:37 2008
+From ray@media.berkeley.edu Wed Jan  2 09:14:16 2008
+From cwen@iupui.edu Tue Jan  1 09:12:12 2008

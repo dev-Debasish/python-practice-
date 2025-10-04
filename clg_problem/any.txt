@@ -1,0 +1,14 @@
+My Journey to Data Engineering
+My career in data engineering began in game development. While working on a casual game called Battle Gate, I developed backend systems and dashboards to monitor key metrics like DAU and ROI. This sparked my interest in data engineering as I enjoyed building systems that transformed data into actionable insights.
+
+Over the years, I transitioned from working with relational databases like MySQL to exploring distributed storage systems and tools like Spark. To advance my skills, I dedicated time to learning technologies like Scala, Spark, and HDFS, which prepared me for senior roles and, ultimately, my position at Agoda.
+
+A Typical Day in My Role
+Our two-week sprint begins with a review of the sprint board to estimate and prioritize tasks, ensuring we stay on track to meet our goals. When I’m on-call, my primary focus shifts to addressing support requests from end users of our Data Platform. Although most issues are handled by our Data Support team, I get involved in the more complex cases.
+
+When I’m not on-call, my day revolves around resolving sprint tickets and optimizing our data pipelines. Working with distributed data requires using tools like Spark and Scala daily. Spark is essential for processing large-scale data efficiently, while Scala has become my favorite language because of its versatility and elegance.
+
+Key Projects I’m Working On
+As part of the Data Apps team, I contribute to several critical projects, including adp-hadoop-etland adp-hadoop-casper. These tools are essential to Agoda’s data infrastructure: adp-hadoop-etl powers the creation and processing of data pipelines, while Casper facilitates data migration from our Data Lake to SQL databases.
+
+One memorable project involved optimizing the delivery of data to Vertica. The task was to reduce the time required to copy data by half. After a few weeks of work, I successfully achieved the goal, but I encountered an unexpected challenge: data duplication in the target system. Fortunately, our Data Quality checks flagged the issue quickly, and I was able to resolve it. That experience taught me an important lesson: always ensure data processes are idempotent to avoid such problems.
